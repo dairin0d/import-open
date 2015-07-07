@@ -20,13 +20,13 @@
 bl_info = {
     "name": "Import Open",
     "author": "dairin0d, moth3r",
-    "version": (0, 1, 0),
+    "version": (1, 0, 0),
     "blender": (2, 7, 0),
     "location": "",
     "description": "Open non-.blend files using active importers",
     "warning": "",
-    "wiki_url": "",
-    "tracker_url": "",
+    "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/ImportOpen",
+    "tracker_url": "https://github.com/dairin0d/import-open/issues",
     "category": "Import-Export"}
 #============================================================================#
 
